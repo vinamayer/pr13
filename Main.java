@@ -8,7 +8,6 @@ public class Main {
         Admin admin = new Admin("Sanabyun", "admin134340");
         Purchase first = new Purchase("Oleg", "12345", "Йогурт", 129, 8.7);
         first.Display();
-        People pp = new People("gdfgdf", 48512, "ghgh")
     }
 }
 
